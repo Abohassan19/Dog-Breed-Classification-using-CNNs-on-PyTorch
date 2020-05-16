@@ -12,7 +12,7 @@ Welcome to the Convolutional Neural Networks (CNN) project in Udacity's DeepLear
 
 ## The Road Ahead
 
-We break the notebook into separate steps.  Feel free to use the links below to navigate the notebook.
+We break the notebook into separate steps:
 
 * Import Datasets
 * Detect Humans
