@@ -1,15 +1,15 @@
 [//]: # (Image References)
 
-[image1]: ./images/dogs/sample_dog_output.png "Sample Output1"
-[image2]: ./images/dogs/Welsh_springer_spaniel_08203.jpg "Sample Output2"
+[image1]: ./images/sample_dog_output.png "Sample Output1"
+[image2]: ./images/Welsh_springer_spaniel_08203.jpg "Sample Output2"
 [image3]: ./my_images/dogs/Canaan.jpg "Canaan dog"
 [image4]: ./my_images/dogs/Chinese_shar-pei.jpg "Chinese shar-pei dog"
 [image5]: ./my_images/dogs/French-bulldog.jpg "French-Bulldog dog"
 [image6]: ./my_images/dogs/Dogue_de_bordeaux.jpg "Dogue de bordeaux"
-[image7]: ./my_images/humans/hassan.jpg "Ahmed Hassan"
-[image8]: ./my_images/humans/okasha.jpg "Okasha"
-[image9]: ./my_images/humans/omran.jpg "Omran"
-[image10]: ./my_images/humans/mohsen.jpg "Mohsen"
+[image7]: ./my_images/humans/Hassan.jpg "Ahmed Hassan"
+[image8]: ./my_images/humans/Okasha.jpg "Okasha"
+[image9]: ./my_images/humans/Omran.jpg "Omran"
+[image10]: ./my_images/humans/Mohsen.jpg "Mohsen"
 
 ## Project Overview
 
