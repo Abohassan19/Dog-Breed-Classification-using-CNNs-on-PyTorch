@@ -26,19 +26,31 @@ We break the notebook into separate steps:
 - Final Model's Test Accuracy: 76% (641/836 images).
 
 <img src="./images/Welsh_springer_spaniel_08203.jpg" alt="Sample Output" width="500"/>
+
 This dog's breed is: Welsh springer spaniel
 
+
+
 <img src="./my_images/humans/Hassan.jpg" alt="Ahmed Hassan" width="300" height=320/> <img src="./my_images/dogs/Canaan.jpg" alt="Canaan dog" width="300" height=320/>
+
 Hello, Human! If you were a dog, you would look like: Canaan dog
 
+
+
 <img src="./my_images/humans/Okasha.jpg" alt="Okasha" width="300" height=320/> <img src="./my_images/dogs/Chinese_shar-pei.jpg" alt="Chinese shar-pei dog" width="300" height=320/>
+
 Hello, Human! If you were a dog, you would look like: Chinese shar-pei
+
+
 
 <img src="./my_images/humans/Omran.jpg" alt="Omran" width="300" height=320/> <img src="./my_images/dogs/French-bulldog.jpg" alt="French Bulldog dog" width="300" height=320/>
 Hello, Human! If you were a dog, you would look like: French Bulldog
 
 <img src="./my_images/humans/Mohsen.jpg" alt="Mohsen" width="300" height=320/> <img src="./my_images/dogs/Dogue_de_bordeaux.jpg" alt="Dogue de bordeaux dog" width="300" height=320/>
+
 Hello, Human! If you were a dog, you would look like: Dogue de bordeaux
+
+
 
 ## For more details
 
