@@ -44,7 +44,10 @@ Hello, Human! If you were a dog, you would look like: Chinese shar-pei
 
 
 <img src="./my_images/humans/Omran.jpg" alt="Omran" width="300" height=320/> <img src="./my_images/dogs/French-bulldog.jpg" alt="French Bulldog dog" width="300" height=320/>
+
 Hello, Human! If you were a dog, you would look like: French Bulldog
+
+
 
 <img src="./my_images/humans/Mohsen.jpg" alt="Mohsen" width="300" height=320/> <img src="./my_images/dogs/Dogue_de_bordeaux.jpg" alt="Dogue de bordeaux dog" width="300" height=320/>
 
